@@ -1,0 +1,8 @@
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\bin\Debug\rastgeleOyunu.exe.config
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\bin\Debug\rastgeleOyunu.exe
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\bin\Debug\rastgeleOyunu.pdb
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\obj\Debug\randomNubmersGame.csproj.AssemblyReference.cache
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\obj\Debug\randomNubmersGame.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\obj\Debug\randomNubmersGame.csproj.CoreCompileInputs.cache
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\obj\Debug\rastgeleOyunu.exe
+C:\Projeler\C#\Başlangıç\Projeler\rastgeleOyunu\obj\Debug\rastgeleOyunu.pdb
